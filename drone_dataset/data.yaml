@@ -1,0 +1,6 @@
+names:
+- drone
+nc: 1
+path: D:/MentorNow/Projects/Image Processing/yolo/drone_dataset/
+train: D:/MentorNow/Projects/Image Processing/yolo/drone_dataset/train
+val: D:/MentorNow/Projects/Image Processing/yolo/drone_dataset/valid
